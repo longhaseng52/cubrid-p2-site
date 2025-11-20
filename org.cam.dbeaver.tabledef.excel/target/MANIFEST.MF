@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DBeaver Table Definition Excel Export
+Bundle-SymbolicName: org.cam.dbeaver.tabledef.excel;singleton:=true
+Bundle-Version: 1.0.0.202511201555
+Bundle-Vendor: cam.buabu
+Automatic-Module-Name: org.cam.dbeaver.tabledef.excel
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Require-Bundle: org.jkiss.bundle.apache.poi,org.jkiss.dbeaver.ext.cubrid
+ ,org.jkiss.dbeaver.ext.generic,org.jkiss.dbeaver.ui,org.jkiss.dbeaver.u
+ i.navigator
+

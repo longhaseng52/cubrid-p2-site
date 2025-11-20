@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.cam.dbeaver.tabledef.excel.feature"
+      label="CUBRID Excel Export"
+      version="1.0.0.qualifier"
+      provider-name="cam.buabu">
+
+   <copyright>Cubrid</copyright>
+         
+   <plugin id="org.cam.dbeaver.tabledef.excel" version="0.0.0"/>
+
+</feature>
